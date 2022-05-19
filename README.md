@@ -1,6 +1,9 @@
-                                                        😎 Hello people
+😎 Hello people
 
-                 🖥️I'm not currently working | 🤝I'm looking to collaborate on | 👨‍🏫I accept help |  🧐Ask me about
+             🖥️I'm not currently working ...
+             🤝I'm looking to collaborate on.. 
+             👨‍🏫I accept help...
+             🧐Ask me about...
       
 <div align="center">
   <a href="https://github.com/Marceloilh">
