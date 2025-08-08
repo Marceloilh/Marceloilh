@@ -1,9 +1,6 @@
-             😎 Hello people
-             🖥️I'm not currently working ...
-             🤝I'm looking to collaborate on.. 
-             👨‍🏫I accept help...
-             🧐Ask me about...
-      
+
+             🤝Welcome!
+             
 <div align="center">
   <a href="https://github.com/Marceloilh">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Marceloilh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
